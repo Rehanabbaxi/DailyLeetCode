@@ -1,1 +1,1 @@
-# This repo is for learning git 
+# This repo conatains solution of my dailyLeetcode practice 
